@@ -2,6 +2,8 @@
 date = '2025-11-19T10:54:57+08:00'
 draft = true
 title = 'About'
+[toc]
+  enable = true
 +++
 # Who Am I
 - Michael Song
