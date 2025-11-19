@@ -58,7 +58,7 @@ title = "Michael Song's Blog"
       logo = ""
       # title name
       # 标题名称
-      name = "Michael Song's Blog"
+      name = "M.S. Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -126,7 +126,7 @@ title = "Michael Song's Blog"
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "My cool site"
+    title = "M.S. Blog"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -188,16 +188,16 @@ title = "Michael Song's Blog"
       gravatarEmail = ""
       # URL of avatar shown in home page
       # 主页显示头像的 URL
-      avatarURL = ""
+      avatarURL = "/images/avatar.jpg"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
-      title = "Michael Song's Blog"
+      title = "Michael Song"
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
       subtitle = "Welcome to my blog!"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
-      typeit = true
+      typeit = false
       # whether to show social links
       # 是否显示社交账号
       social = true
@@ -295,7 +295,6 @@ title = "Michael Song's Blog"
     Email = "1124902595@qq.com"
     Phone = ""
     RSS = ""
-    QQ = "1124902595"
 
   # Page global config
   # 文章页面全局配置
