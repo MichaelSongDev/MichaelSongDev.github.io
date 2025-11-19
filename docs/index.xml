@@ -1,25 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Michael Song&#39;s Blog</title>
-        <link>http://localhost:1313/</link>
+        <link>https://michsong.com/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>1124902595@qq.com (Michael Song)</managingEditor>
             <webMaster>1124902595@qq.com (Michael Song)</webMaster><lastBuildDate>Wed, 19 Nov 2025 12:57:21 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://michsong.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>BUAA OOpre 2025课程总结</title>
-    <link>http://localhost:1313/posts/oopre/oopre/</link>
+    <link>https://michsong.com/posts/oopre/oopre/</link>
     <pubDate>Wed, 19 Nov 2025 12:57:21 &#43;0800</pubDate>
     <author>1124902595@qq.com (Michael Song)</author>
-    <guid>http://localhost:1313/posts/oopre/oopre/</guid>
+    <guid>https://michsong.com/posts/oopre/oopre/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>第一篇博客</title>
-    <link>http://localhost:1313/posts/firstblog/</link>
+    <link>https://michsong.com/posts/firstblog/</link>
     <pubDate>Wed, 19 Nov 2025 11:22:28 &#43;0800</pubDate>
     <author>1124902595@qq.com (Michael Song)</author>
-    <guid>http://localhost:1313/posts/firstblog/</guid>
+    <guid>https://michsong.com/posts/firstblog/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

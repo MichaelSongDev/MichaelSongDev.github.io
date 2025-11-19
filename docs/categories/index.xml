@@ -1,8 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Michael Song&#39;s Blog</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://michsong.com/categories/</link>
         <description>Categories - Category - Michael Song&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>1124902595@qq.com (Michael Song)</managingEditor>
-            <webMaster>1124902595@qq.com (Michael Song)</webMaster><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>1124902595@qq.com (Michael Song)</webMaster><lastBuildDate>Wed, 19 Nov 2025 12:57:21 &#43;0800</lastBuildDate><atom:link href="https://michsong.com/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>OO</title>
+    <link>https://michsong.com/categories/oo/</link>
+    <pubDate>Wed, 19 Nov 2025 12:57:21 &#43;0800</pubDate>
+    <author>1124902595@qq.com (Michael Song)</author>
+    <guid>https://michsong.com/categories/oo/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

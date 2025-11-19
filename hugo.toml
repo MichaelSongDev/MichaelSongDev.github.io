@@ -10,6 +10,8 @@ title = "Michael Song's Blog"
     min = "0.128.0"
 
 [params]
+  theme = ["hugo-search-fuse-js", "LoveIt"]
+
   # site default theme ["auto", "light", "dark"]
   # 网站默认主题 ["auto", "light", "dark"]
   defaultTheme = "auto"
@@ -149,7 +151,7 @@ title = "Michael Song's Blog"
     enable = true
     # type of search engine ["lunr", "algolia"]
     # 搜索引擎的类型 ["lunr", "algolia"]
-    type = "lunr"
+    type = "algolia"
     # max index length of the chunked content
     # 文章内容最长索引长度
     contentLength = 4000
@@ -169,9 +171,9 @@ title = "Michael Song's Blog"
     # 是否在搜索索引中使用基于 baseURL 的绝对路径
     absoluteURL = false
     [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
+      index = "index"
+      appID = "92PP9649GJ"
+      searchKey = "b981dadb9f6ecf6c6afff102a61347e7"
 
   # Home page config
   # 主页信息设置
@@ -396,8 +398,8 @@ title = "Michael Song's Blog"
     # 文章页面的分享信息设置
     [params.page.share]
       enable = true
-      X = true
-      Threads = true
+      X = false
+      Threads = false
       Facebook = true
       Linkedin = false
       Whatsapp = false
@@ -414,7 +416,7 @@ title = "Michael Song's Blog"
       Flipboard = false
       Weibo = true
       Blogger = false
-      Baidu = false
+      Baidu = true
       Odnoklassniki = false
       Evernote = false
       Skype = false

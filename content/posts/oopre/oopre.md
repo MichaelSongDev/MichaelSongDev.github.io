@@ -2,6 +2,8 @@
 date = '2025-11-19T12:57:21+08:00'
 draft = false
 title = 'BUAA OOpre 2025课程总结'
+categories = ["OO"]
+tags = ["Java", "OO"]
 [toc]
   enable = true
 +++

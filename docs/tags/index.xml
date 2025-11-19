@@ -1,8 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Michael Song&#39;s Blog</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://michsong.com/tags/</link>
         <description>Tags - Tag - Michael Song&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>1124902595@qq.com (Michael Song)</managingEditor>
-            <webMaster>1124902595@qq.com (Michael Song)</webMaster><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>1124902595@qq.com (Michael Song)</webMaster><lastBuildDate>Wed, 19 Nov 2025 12:57:21 &#43;0800</lastBuildDate><atom:link href="https://michsong.com/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Java</title>
+    <link>https://michsong.com/tags/java/</link>
+    <pubDate>Wed, 19 Nov 2025 12:57:21 &#43;0800</pubDate>
+    <author>1124902595@qq.com (Michael Song)</author>
+    <guid>https://michsong.com/tags/java/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>OO</title>
+    <link>https://michsong.com/tags/oo/</link>
+    <pubDate>Wed, 19 Nov 2025 12:57:21 &#43;0800</pubDate>
+    <author>1124902595@qq.com (Michael Song)</author>
+    <guid>https://michsong.com/tags/oo/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
