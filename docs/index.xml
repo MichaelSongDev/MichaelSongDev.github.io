@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Michael Song&#39;s Blog</title>
+        <link>https://michsong.com/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>1124902595@qq.com (Michael Song)</managingEditor>
+            <webMaster>1124902595@qq.com (Michael Song)</webMaster>
+            <atom:link href="https://michsong.com/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
